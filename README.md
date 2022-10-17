@@ -8,4 +8,4 @@ BOOST00/BOOST00 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Hey!
-I am currently a Junior enrolled in Computer Engineering. I started this page to apply my knowledge to real world scenarios.
+I am currently a Junior enrolled in Computer Engineering. I started this page to apply my knowledge to real world challenges and scenarios.
